@@ -1,0 +1,14 @@
+{
+  "name": "gulp_project",
+  "version": "0.0.1",
+  "description": "Progect for learning",
+  "main": "index.js",
+  "author": "TK",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-csso": "^3.0.0",
+    "gulp-htmlincluder": "^0.1.0"
+  }
+}
